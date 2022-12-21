@@ -7,6 +7,7 @@ Here you can find:
 - the notebook `Epidemy_simulations.ipynb` with all the relevant code and comments
 - some auxiliary functions in the file `auxiliary_functions.py``
 - the dataset `edges-13.csv`.
+- some presentation slides `slide.pdf`
 
 ### Dataset
 The dataset we used is a simple graph whose edges and nodes can be obtained from the file `edges-13.csv`.
