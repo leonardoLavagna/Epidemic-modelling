@@ -5,7 +5,7 @@ In this project we will carry out some simulations with various SIR-related mode
 ### What's in here?
 Here you can find:
 - the notebook `Epidemy_simulations.ipynb` with all the relevant code and comments
-- some auxiliary functions in the file `auxiliary_functions.py``
+- some auxiliary functions in the file `auxiliary_functions.py`
 - the dataset `edges-13.csv`.
 - some presentation slides `slide.pdf`
 
