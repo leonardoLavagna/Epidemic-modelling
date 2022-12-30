@@ -13,4 +13,4 @@ Here you can find:
 The dataset we used is a simple graph whose edges and nodes can be obtained from the file `edges-13.csv`.
 
 ### Disclamair 
-This project was part of a course of Digital Epidemiology and Precision Medicin at Sapienza University of Rome held by Prof. M. Petti, Prof. S. Guarino from (CNR) and Prof. E. Mastrostefano (from CNR)
+This project was part of a course of Digital Epidemiology and Precision Medicin at Sapienza University of Rome held by Prof. M. Petti, Prof. S. Guarino (from CNR) and Prof. E. Mastrostefano (from CNR)
