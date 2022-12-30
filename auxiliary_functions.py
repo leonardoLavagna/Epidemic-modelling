@@ -221,7 +221,7 @@ class SIRE:
                 # RE-TRANSMISSION
                 for j in E.intersection(self.g.neighbors(i)):
                     # immunization linear decrease of efficacy
-                    if np.random.uniform() < 1-0.5*self.T*self.EPSILON:
+                    if np.random.uniform() < 1-0.5*t*self.EPSILON:
                         E.remove(j)
                         I.add(j)
                         EI.add(j)
